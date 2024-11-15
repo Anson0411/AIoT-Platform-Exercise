@@ -1,6 +1,14 @@
 # AIoT-Platform-Exercise
 ## AIoT-Platform GCP - 即時影像辨識 
 
+```mermaid
+graph TD;
+    相機-->AI影像辨識;
+    AI影像辨識-->發布警訊;
+    AI影像辨識-->雲端保存(GCP);
+    AI影像辨識-->影像串流;
+```
+
 ### 利用GCP創建虛擬機
 ### (本機)連線至虛擬機 - SSH  (或是直接從網頁進入)
 
