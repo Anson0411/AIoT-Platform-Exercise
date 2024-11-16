@@ -30,6 +30,6 @@ https://notify-bot.line.me/zh_TW/
 
 ### 建立GCP Storage
 
-https://console.cloud.google.com/
+https://console.cloud.google.com/projectselector2/storage/overview?inv=1&invt=Abhn9A&supportedpurview=project
 
 
