@@ -24,6 +24,12 @@ graph TD;
 
 `$ ssh {外部IP}`
    
+### Line Notify 權杖申請
 
+https://notify-bot.line.me/zh_TW/
+
+### 建立GCP Storage
+
+https://console.cloud.google.com/
 
 
