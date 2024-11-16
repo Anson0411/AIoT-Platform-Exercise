@@ -28,10 +28,16 @@ graph TD;
 
 https://notify-bot.line.me/zh_TW/
 
-### 建立GCP Storage
+### GCP Storage - 建立值區
 
 https://console.cloud.google.com/projectselector2/storage/overview?inv=1&invt=Abhn9A&supportedpurview=project
 
-設定存取金鑰
+### GCP IAM與管理 - 建立服務帳戶 設定存取金鑰
+
+### YouTube 影像串流
+
+OBS - 直播影像串流到Youtube
+FileZilla - 上傳檔案到雲端虛擬機器的工具
+
 
 
