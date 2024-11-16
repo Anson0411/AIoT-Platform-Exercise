@@ -32,4 +32,6 @@ https://notify-bot.line.me/zh_TW/
 
 https://console.cloud.google.com/projectselector2/storage/overview?inv=1&invt=Abhn9A&supportedpurview=project
 
+設定存取金鑰
+
 
